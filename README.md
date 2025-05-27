@@ -20,6 +20,7 @@
 - [리스트 자료형](https://github.com/zenithx31/learn-python-kor/blob/main/list_types.md)
 - [튜플 자료형](https://github.com/zenithx31/learn-python-kor/blob/main/tuple_types.md)
 - [딕셔너리 자료형](https://github.com/zenithx31/learn-python-kor/blob/main/dictionary_types.md)
+- [집합 자료형](https://github.com/zenithx31/learn-python-kor/blob/main/set_types.md)
 
 
 ---
