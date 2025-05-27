@@ -22,6 +22,7 @@
 - [딕셔너리 자료형](https://github.com/zenithx31/learn-python-kor/blob/main/dictionary_types.md)
 - [집합 자료형](https://github.com/zenithx31/learn-python-kor/blob/main/set_types.md)
 - [불 자료형](https://github.com/zenithx31/learn-python-kor/blob/main/boolean_types.md)
+- [변수](https://github.com/zenithx31/learn-python-kor/blob/main/variables.md)
 
 
 ---
