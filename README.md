@@ -19,6 +19,7 @@
 - [문자열 자료형](https://github.com/zenithx31/learn-python-kor/blob/main/string_types.md)
 - [리스트 자료형](https://github.com/zenithx31/learn-python-kor/blob/main/list_types.md)
 - [튜플 자료형](https://github.com/zenithx31/learn-python-kor/blob/main/tuple_types.md)
+- [딕셔너리 자료형](https://github.com/zenithx31/learn-python-kor/blob/main/dictionary_types.md)
 
 
 ---
