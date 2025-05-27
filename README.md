@@ -15,7 +15,7 @@
 ## 📂 목차
 > 새로운 내용을 꾸준히 업데이트하는 중입니다.
 
-- [수 자료형](https://github.com/zenithx31/learn-python-kor/blob/main/수%20자료형.md)
+- [수 자료형](https://github.com/zenithx31/learn-python-kor/blob/main/수자료형.md)
 
 
 ---
