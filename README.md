@@ -15,8 +15,8 @@
 ## 📂 목차
 > 새로운 내용을 꾸준히 업데이트하는 중입니다.
 
-- [수 자료형](https://github.com/zenithx31/learn-python-kor/blob/main/numeric_type.md)
-- [문자열 자료형](https://github.com/zenithx31/learn-python-kor/blob/main/string_type.md)
+- [수 자료형](https://github.com/zenithx31/learn-python-kor/blob/main/numeric_types.md)
+- [문자열 자료형](https://github.com/zenithx31/learn-python-kor/blob/main/string_types.md)
 
 
 ---
