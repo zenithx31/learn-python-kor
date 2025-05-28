@@ -19,6 +19,7 @@
 ## 📂 목차
 > 새로운 내용을 꾸준히 업데이트하는 중입니다.
 
+### 🧮 기초 문법
 - [수 자료형](https://github.com/zenithx31/learn-python-kor/blob/main/numeric_types.md)
 - [문자열 자료형](https://github.com/zenithx31/learn-python-kor/blob/main/string_types.md)
 - [리스트 자료형](https://github.com/zenithx31/learn-python-kor/blob/main/list_types.md)
@@ -35,8 +36,12 @@
 - [입력과 출력(3) 프로그램의 입력과 출력](https://github.com/zenithx31/learn-python-kor/blob/main/program_input_output.md)
 - [입력과 출력(4) 파일 읽고 쓰기](https://github.com/zenithx31/learn-python-kor/blob/main/file_reading_writing.md)
 - [클래스 작성 방법과 활용 예시](https://github.com/zenithx31/learn-python-kor/blob/main/class_examples.md)
-- [넘파이 기본 문법과 활용 예시](https://github.com/zenithx31/learn-python-kor/blob/main/numpy_syntax_examples.md)
-- [판다스(1) 데이터프레임](https://github.com/zenithx31/learn-python-kor/blob/main/fandas_dataframe.md)
+
+### 📐 넘파이
+- [넘파이 기본 문법과 활용 예시](https://github.com/zenithx31/learn-python-kor/blob/main/numpy/syntax_examples.md)
+
+### 🐼 판다스
+- [판다스(1) 데이터프레임](https://github.com/zenithx31/learn-python-kor/blob/main/pandas/dataframe.md)
 
 
 ---
