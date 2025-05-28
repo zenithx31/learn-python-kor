@@ -49,7 +49,7 @@
 
 ### 🛠️ 유용한 자료 모음
 > 에러 해결, 라이브러리 소개 등 개발에 도움되는 내용들이 모여 있습니다.
-- [FinanceDataReader 라이브러리로 금융 데이터 가져오기](https://github.com/zenithx31/learn-python-kor/blob/main/untilities/financedatareader.md)
+- [FinanceDataReader 라이브러리로 금융 데이터 가져오기](https://github.com/zenithx31/learn-python-kor/blob/main/utilities/financedatareader.md)
 
 ---
 
