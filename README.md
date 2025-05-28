@@ -27,7 +27,8 @@
 - [제어문(2) while문](https://github.com/zenithx31/learn-python-kor/blob/main/while_loop.md)
 - [제어문(2) for문](https://github.com/zenithx31/learn-python-kor/blob/main/for_loop.md)
 - [입력과 출력(1) 함수](https://github.com/zenithx31/learn-python-kor/blob/main/functions.md)
-- [입력과 출력(2) 사용자의 입력과 출력](https://github.com/zenithx31/learn-python-kor/blob/main/user_input_output.md) 
+- [입력과 출력(2) 사용자의 입력과 출력](https://github.com/zenithx31/learn-python-kor/blob/main/user_input_output.md)
+- [입력과 출력(2) 프로그램의 입력과 출력](https://github.com/zenithx31/learn-python-kor/blob/main/program_input_output.md) 
 
 
 ---
