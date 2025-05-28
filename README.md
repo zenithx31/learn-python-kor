@@ -42,6 +42,7 @@
 
 ### 🐼 판다스
 - [판다스(1) 데이터프레임](https://github.com/zenithx31/learn-python-kor/blob/main/pandas/dataframe.md)
+- [판다스(2) 데이터프레임 열 접근 & 수치 정보](https://github.com/zenithx31/learn-python-kor/blob/main/pandas/accessing_columns_statisticalinfo.md)
 
 
 ---
