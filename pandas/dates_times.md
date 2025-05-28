@@ -10,7 +10,8 @@ Timestamp, DatetimeIndex, Period와 같은 객체들은 날짜와 시간 데이�
 📚 Timestamp
 
 Timestamp는 Pandas에서 하나의 날짜와 시간을 표현하는 객체입니다.  
-datetime64와 유사하지만, 보다 편리한 기능을 제공합니다. Timestamp 객체는 다양한 단위로 날짜와 시간을 생성할 수 있습니다. 기본적으로 나노초(ns) 단위까지 지원합니다.
+datetime64와 유사하지만, 보다 편리한 기능을 제공합니다.
+<br>Timestamp 객체는 다양한 단위로 날짜와 시간을 생성할 수 있습니다. 기본적으로 나노초(ns) 단위까지 지원합니다.
 
 ```python
 import pandas as pd
