@@ -29,7 +29,8 @@
 - [입력과 출력(1) 함수](https://github.com/zenithx31/learn-python-kor/blob/main/functions.md)
 - [입력과 출력(2) 사용자의 입력과 출력](https://github.com/zenithx31/learn-python-kor/blob/main/user_input_output.md)
 - [입력과 출력(3) 프로그램의 입력과 출력](https://github.com/zenithx31/learn-python-kor/blob/main/program_input_output.md)
-- [입력과 출력(4) 파일 읽고 쓰기](https://github.com/zenithx31/learn-python-kor/blob/main/file_reading_writing.md) 
+- [입력과 출력(4) 파일 읽고 쓰기](https://github.com/zenithx31/learn-python-kor/blob/main/file_reading_writing.md)
+- [클래스(Class) 작성 방법과 활용 예시](https://github.com/zenithx31/learn-python-kor/blob/main/class_examples.md)
 
 
 ---
