@@ -1,13 +1,13 @@
 # Pandas를 활용한 날짜와 시간 처리
 
-📚 Pandas에서 날짜와 시간 다루기: Timestamp, DatetimeIndex, Period
+## 📚 Pandas에서 날짜와 시간 다루기: Timestamp, DatetimeIndex, Period
 
 Pandas는 날짜와 시간 관련 데이터를 다루기 위한 여러 함수를 제공합니다.  
 Timestamp, DatetimeIndex, Period와 같은 객체들은 날짜와 시간 데이터를 처리하고 분석하는 데 큰 도움이 됩니다.
 
 ---
 
-📚 Timestamp
+## 📚 Timestamp
 
 Timestamp는 Pandas에서 하나의 날짜와 시간을 표현하는 객체입니다.  
 datetime64와 유사하지만, 보다 편리한 기능을 제공합니다.
@@ -31,7 +31,7 @@ print(example2)
 
 ---
 
-📚 DatetimeIndex
+## 📚 DatetimeIndex
 
 DatetimeIndex는 여러 날짜를 다룰 때 유용한 객체입니다. 여러 날짜를 하나의 인덱스에서 관리할 수 있게 도와줍니다.
 
@@ -73,7 +73,7 @@ print(example)
 
 ---
 
-📚 Period와 PeriodIndex
+## 📚 Period와 PeriodIndex
 
 Period는 특정 시점이 아닌 기간을 포괄하는 개념입니다.  
 예를 들어, 한 달 또는 1년의 기간을 표현할 때 사용됩니다. 반면, Timestamp는 하나의 특정 시점을 의미합니다.
