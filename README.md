@@ -40,6 +40,7 @@
 ### 📐 넘파이
 - [기본 문법과 활용 예시](https://github.com/zenithx31/learn-python-kor/blob/main/numpy/syntax_examples.md)
 - [datetime64 날짜와 시간 함수 다루기](https://github.com/zenithx31/learn-python-kor/blob/main/numpy/datetime64.md)
+- [1차원 배열과 2차원 배열](https://github.com/zenithx31/learn-python-kor/blob/main/numpy/arrays.md)
 
 ### 🐼 판다스
 - [데이터프레임](https://github.com/zenithx31/learn-python-kor/blob/main/pandas/dataframe.md)
