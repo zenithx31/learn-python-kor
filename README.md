@@ -23,7 +23,8 @@
 - [집합 자료형](https://github.com/zenithx31/learn-python-kor/blob/main/set_types.md)
 - [불 자료형](https://github.com/zenithx31/learn-python-kor/blob/main/boolean_types.md)
 - [변수](https://github.com/zenithx31/learn-python-kor/blob/main/variables.md)
-- [제어문(1) if문](https://github.com/zenithx31/learn-python-kor/blob/main/if_statements.md)
+- [제어문(1) if문](https://github.com/zenithx31/learn-python-kor/blob/main/if_statement.md)
+- [제어문(2) while문](https://github.com/zenithx31/learn-python-kor/blob/main/while_statement.md)
 
 
 ---
