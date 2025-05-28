@@ -1,6 +1,6 @@
 # Telethon 라이브러리로 텔레그램 채팅방 스크래핑 하기
 
-📚 Telethon이란?
+## 📚 Telethon이란?
 
 Telethon은 Python으로 작성된 Telegram API 클라이언트 라이브러리입니다.  
 텔레그램 서버와 직접 통신하여 메시지 전송, 수신, 채팅방 관리 등 다양한 작업을 자동화할 수 있도록 도와줍니다.  
@@ -8,7 +8,7 @@ Telethon은 Python으로 작성된 Telegram API 클라이언트 라이브러리�
 
 ---
 
-📚 Telegram API와 Hash 발급
+## 📚 Telegram API와 Hash 발급
 
 텔레그램 API와 Hash는 텔레그램 계정이 있어야 발급이 가능하며, 계정이 있다면 아래 링크에서 발급 받을 수 있습니다.
 
@@ -16,7 +16,7 @@ https://my.telegram.org/auth?to=apps
 
 ---
 
-📚 Telegram 채팅방 스크래핑 예시
+## 📚 Telegram 채팅방 스크래핑 예시
 
 Telethon을 설치하려면 먼저 Python과 pip 모듈이 설치되어 있어야 합니다.
 
