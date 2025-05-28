@@ -52,6 +52,7 @@
 - [FinanceDataReader 라이브러리로 금융 데이터 가져오기](https://github.com/zenithx31/learn-python-kor/blob/main/utilities/financedatareader.md)
 - [Telethon 라이브러리로 텔레그램 채팅방 스크래핑 하기](https://github.com/zenithx31/learn-python-kor/blob/main/utilities/telethon.md)
 - [datetime 라이브러리로 날짜와 시간 다루기: 파이썬 데이터 타입 변환](https://github.com/zenithx31/learn-python-kor/blob/main/utilities/datetime.md)
+- [random 모듈로 난수 생성하기](https://github.com/zenithx31/learn-python-kor/blob/main/utilities/random.md)
 
 ---
 
