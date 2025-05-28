@@ -46,6 +46,7 @@
 - [조건부 로직, 연산자, 정렬](https://github.com/zenithx31/learn-python-kor/blob/main/pandas/conditional_logic_operators_sorting.md)
 - [객체 간 연산](https://github.com/zenithx31/learn-python-kor/blob/main/pandas/operations_between_objects.md)
 - [객체 내 연산](https://github.com/zenithx31/learn-python-kor/blob/main/pandas/operations_within_objects.md)
+- [데이터프레임 행과 열 생략 없이 전체 출력하기](https://github.com/zenithx31/learn-python-kor/blob/main/pandas/dataframe2.md)
 
 ### 🛠️ 유용한 자료 모음
 > 에러 해결, 라이브러리 소개 등 개발에 도움되는 내용들이 모여 있습니다.
@@ -53,6 +54,7 @@
 - [Telethon 라이브러리로 텔레그램 채팅방 스크래핑 하기](https://github.com/zenithx31/learn-python-kor/blob/main/utilities/telethon.md)
 - [datetime 라이브러리로 날짜와 시간 다루기: 파이썬 데이터 타입 변환](https://github.com/zenithx31/learn-python-kor/blob/main/utilities/datetime.md)
 - [random 모듈로 난수 생성하기](https://github.com/zenithx31/learn-python-kor/blob/main/utilities/random.md)
+
 
 ---
 
