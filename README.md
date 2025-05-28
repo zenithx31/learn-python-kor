@@ -2,6 +2,8 @@
 
 이 레포지토리는 파이썬을 학습하며 정리한 개념 설명과 코드 예제를 담고 있습니다.  
 기초 문법부터 주요 기능까지, 주제별로 나누어 정리하고 있으며 지속적으로 업데이트할 예정입니다.
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=zenithx31.learn-python-kor)
+
 
 ---
 
