@@ -19,7 +19,7 @@ df_sample = fdr.StockListing('KRX')
 print(df_sample)
 ~~~
 
-![](images/df1.png)
+![](../images/df1.png)
 
 FinanceDataReader를 활용해 한국 거래소에 상장된 종목 코드를 가져왔습니다.
 
@@ -40,7 +40,7 @@ pd.set_option('display.max_columns', None)
 print(df_sample)
 ~~~
 
-![](images/df2.png)
+![](../images/df2.png)
 
 아웃풋을 한 화면에 담을 수 없어 일부만 크롭해 보여드리고 있지만,
 
