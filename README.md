@@ -38,7 +38,7 @@
 - [클래스 작성 방법과 활용 예시](https://github.com/zenithx31/learn-python-kor/blob/main/basics/class_examples.md)
 
 ### 📐 넘파이
-- [넘파이 기본 문법과 활용 예시](https://github.com/zenithx31/learn-python-kor/blob/main/numpy/syntax_examples.md)
+- [기본 문법과 활용 예시](https://github.com/zenithx31/learn-python-kor/blob/main/numpy/syntax_examples.md)
 
 ### 🐼 판다스
 - [데이터프레임](https://github.com/zenithx31/learn-python-kor/blob/main/pandas/dataframe.md)
