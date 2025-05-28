@@ -1,6 +1,6 @@
 # 넘파이 기본 문법과 활용 예시
 
-📚 Numpy란?
+## 📚 Numpy란?
 
 Numpy는 Numeric + Python의 약자입니다.  
 수치 데이터를 다룰 수 있는 Python 패키지로, 순수 파이썬보다 훨씬 빠르게 대규모 데이터를 처리할 수 있습니다.  
@@ -10,7 +10,7 @@ Numpy는 Numeric + Python의 약자입니다.
 
 ---
 
-📚 np.array()
+## 📚 np.array()
 
 Numpy에서 가장 중요한 데이터 구조인 `ndarray`를 만들 때 사용하는 함수입니다.
 
@@ -62,7 +62,7 @@ print(mat.shape)  # (2, 3)
 
 ---
 
-📚 ndarray 초기화
+## 📚 ndarray 초기화
 
 Numpy는 배열을 쉽게 초기화할 수 있는 다양한 방법을 제공합니다.
 
@@ -121,7 +121,7 @@ print(random)
 
 ---
 
-📚 np.arange()
+## 📚 np.arange()
 
 `np.arange()` 함수는 주어진 범위의 숫자들을 포함하는 배열을 생성합니다.
 
@@ -146,7 +146,7 @@ print(range_step_vec)
 
 ---
 
-📚 np.reshape()
+## 📚 np.reshape()
 
 `np.reshape()` 함수는 배열의 데이터를 그대로 두고, 배열의 모양만 변경할 수 있습니다.
 
@@ -159,7 +159,7 @@ print(reshape)
 
 ---
 
-📚 Numpy 슬라이싱
+## 📚 Numpy 슬라이싱
 
 Numpy 배열을 슬라이싱하여 원하는 부분을 추출할 수 있습니다.
 
@@ -183,7 +183,7 @@ print(slice_mat2)
 
 ---
 
-📚 Numpy 정수 인덱싱
+## 📚 Numpy 정수 인덱싱
 
 배열의 특정 위치를 지정하여 값을 추출하거나 새로운 배열을 생성할 수 있습니다.
 
@@ -206,7 +206,7 @@ print(index_mat)
 
 ---
 
-📚 Numpy 연산
+## 📚 Numpy 연산
 
 Numpy는 배열 간의 연산을 간단히 처리할 수 있게 해줍니다.
 
